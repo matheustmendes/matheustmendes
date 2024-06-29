@@ -3,7 +3,7 @@
 
 Olá, meu nome é Matheus Torres, tenho 17 anos e atualmente sou estudante de desenvolvimento Back-End com Node.js.
 
-Atualmente estou cursando Engenharia de Computação pela UNIJORGE.
+Atualmente estou cursando Ciência e Tecnologia pela Universidade Federal da Bahia.
 
 
 <!--
