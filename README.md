@@ -1,7 +1,7 @@
 ### Hello, World!
 
 
-Olá, meu nome é Matheus Torres, tenho 17 anos e atualmente sou estudante de desenvolvimento Back-End com Node.js.
+Olá, meu nome é Matheus Torres, tenho 18 anos e atualmente sou estudante de desenvolvimento Back-End com Node.js.
 
 Atualmente estou cursando Ciência e Tecnologia pela Universidade Federal da Bahia.
 
